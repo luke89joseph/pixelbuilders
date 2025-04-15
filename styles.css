@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100..800");
+@import url("https://fonts.googleapis.com/css2?family=Geist Mono");
+@import url("https://fonts.googleapis.com/css2?family=Lexend Deca:wght@700");
+@import url("https://fonts.googleapis.com/css2?family=Playwrite DK Loopet");
+
+body {
+    margin: 0;
+}
+h1 {
+    font-family: Geist Mono, Rockwell, Futura;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+h3 {
+    font-family: Geist Mono, Rockwell, Futura;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h4 {
+    font-family: Montserrat, Rockwell, Futura;
+    text-align: center;
+}
+span {
+    background-color: rgb(153, 9, 45);
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
+#header {
+    color: white;
+    background-color: rgb(76, 1, 76);
+    margin: 0px;
+    user-select: none;
+    -webkit-user-select: none;
+    transition: background-color 1s;
+    h1 {
+        font-family: Montserrat, Geist Mono, Rockwell;
+    }
+}
+#header:hover {
+    background-color: rgb(114, 5, 114);
+}
