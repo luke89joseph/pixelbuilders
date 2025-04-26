@@ -10,6 +10,8 @@ h1 {
     font-family: Geist Mono, Rockwell, Futura;
     text-align: center;
     padding: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
     margin: 0px;
 }
 h3 {
